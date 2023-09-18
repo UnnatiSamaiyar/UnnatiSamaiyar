@@ -17,7 +17,7 @@
 </div>	  
 <!-- End Visitor Count -->
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 **Full-Stack Web Developer**
 
 - 📫 How to reach me **unnatisamaiyar02@gmail.com**
 <br>
